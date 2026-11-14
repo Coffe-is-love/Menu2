@@ -1,2 +1,2 @@
 # Menu2
-site meny to "Coffe is love"
+site menu to "Coffe is love"
